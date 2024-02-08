@@ -52,12 +52,6 @@ A voice recognition-based tool for translating languages in real-time. This tool
 
 [2-demo-video.webm](https://github.com/gunarakulangunaretnam/language-translator-bot/assets/45822509/86a26bf0-0500-42e1-a626-497084cc7772)
 
-## Social Links
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulangunaratnam)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
-* [Twitter Profile ](https://twitter.com/gunarakulangr)
-* [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
-* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
-* [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+
+
